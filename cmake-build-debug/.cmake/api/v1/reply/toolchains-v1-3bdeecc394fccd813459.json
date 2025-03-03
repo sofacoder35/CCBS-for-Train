@@ -1,0 +1,135 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/x86_64-w64-mingw32/lib",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "E:/mingw/w64devkit-1.20.0/w64devkit/bin/cc.exe",
+				"version" : "13.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc/x86_64-w64-mingw32/13.2.0",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib/gcc",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/x86_64-w64-mingw32/lib",
+						"E:/mingw/w64devkit-1.20.0/w64devkit/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "E:/mingw/w64devkit-1.20.0/w64devkit/bin/c++.exe",
+				"version" : "13.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "E:/mingw/w64devkit-1.20.0/w64devkit/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

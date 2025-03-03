@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<root>
+    <agent start_id="0" goal_id="11"/>
+    <agent start_id="8" goal_id="3"/>
+    <agent start_id="7" goal_id="4"/>
+    <!--    <agent start_id="5" goal_id="12"/>-->
+    <!--    <agent start_id="15" goal_id="0"/>-->
+    <!--    <agent start_id="11" goal_id="6"/>-->
+    <log>
+        <summary time="0.0044079999999999996" flowtime="45.49339527637548" makespan="18.967407483643633"/>
+        <agent number="0">
+            <path duration="13.86913354323949">
+                <section number="0" start_i="0" start_j="5" goal_i="2" goal_j="5" duration="2"/>
+                <section number="1" start_i="2" start_j="5" goal_i="2" goal_j="5" duration="1.2122792937471103"/>
+                <section number="2" start_i="2" start_j="5" goal_i="4" goal_j="3" duration="2.8284271247461903"/>
+                <section number="3" start_i="4" start_j="3" goal_i="7" goal_j="3" duration="3"/>
+                <section number="4" start_i="7" start_j="3" goal_i="9" goal_j="1" duration="2.8284271247461898"/>
+                <section number="5" start_i="9" start_j="1" goal_i="11" goal_j="1" duration="2"/>
+            </path>
+        </agent>
+        <agent number="1">
+            <path duration="12.65685424949238">
+                <section number="0" start_i="0" start_j="1" goal_i="2" goal_j="1" duration="2"/>
+                <section number="1" start_i="2" start_j="1" goal_i="4" goal_j="3" duration="2.8284271247461898"/>
+                <section number="2" start_i="4" start_j="3" goal_i="7" goal_j="3" duration="3"/>
+                <section number="3" start_i="7" start_j="3" goal_i="9" goal_j="5" duration="2.8284271247461898"/>
+                <section number="4" start_i="9" start_j="5" goal_i="11" goal_j="5" duration="2"/>
+            </path>
+        </agent>
+        <agent number="2">
+            <path duration="18.967407483643633">
+                <section number="0" start_i="11" start_j="3" goal_i="11" goal_j="3" duration="7.967407483643635"/>
+                <section number="1" start_i="11" start_j="3" goal_i="7" goal_j="3" duration="4"/>
+                <section number="2" start_i="7" start_j="3" goal_i="4" goal_j="3" duration="3"/>
+                <section number="3" start_i="4" start_j="3" goal_i="0" goal_j="3" duration="3.9999999999999982"/>
+            </path>
+        </agent>
+    </log>
+</root>

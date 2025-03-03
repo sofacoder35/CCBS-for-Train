@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<root>
+	<algorithm>
+		<use_cardinal>false</use_cardinal>
+		<use_disjoint_splitting>false</use_disjoint_splitting>
+		<hlh_type>0</hlh_type>
+		<connectedness>3</connectedness>
+		<focal_weight>1.0</focal_weight>
+		<agent_size>0</agent_size>
+		<timelimit>30</timelimit>
+		<precision>0.0000001</precision>
+		<cbs_mode>3</cbs_mode>
+		<!-- 1-CCBS in rail	, 2-Discrete time CBS , 3-CCBS	-->
+		<alarmMark>1</alarmMark>
+	</algorithm>
+</root>

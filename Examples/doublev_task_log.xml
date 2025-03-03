@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <agent start_id="12" goal_id="14"/>
+    <log>
+        <summary time="0" flowtime="6" makespan="6"/>
+        <agent number="0">
+            <path duration="6">
+                <section number="0" start_i="10" start_j="1" goal_i="16" goal_j="1" duration="6"/>
+            </path>
+        </agent>
+    </log>
+</root>

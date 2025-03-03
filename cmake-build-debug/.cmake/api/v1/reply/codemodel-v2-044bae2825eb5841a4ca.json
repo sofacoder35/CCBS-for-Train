@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CCBS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS-Debug-91906c52a5a548a055a2.json",
+					"name" : "CCBS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS10-Debug-ca84fe88ee61144edc71.json",
+					"name" : "CCBS10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS11-Debug-edbb672b229bc41ff09d.json",
+					"name" : "CCBS11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS12-Debug-2ccf568e3e2cb2a02cbb.json",
+					"name" : "CCBS12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS2-Debug-a4496fba5705d873fe14.json",
+					"name" : "CCBS2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS3-Debug-2aacd838056bc444cc33.json",
+					"name" : "CCBS3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS4-Debug-9f4f8081699c1dad0211.json",
+					"name" : "CCBS4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS5-Debug-26f503b0b520619fd36c.json",
+					"name" : "CCBS5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS6-Debug-726214085797a7b04995.json",
+					"name" : "CCBS6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS7-Debug-cac46b287dea57246f1d.json",
+					"name" : "CCBS7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS8-Debug-4ca7920f0632b77a7ccf.json",
+					"name" : "CCBS8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CCBS9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CCBS9-Debug-0732e7fb41dfb25e69e2.json",
+					"name" : "CCBS9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CBS/Continuous-CBS(modified)/cmake-build-debug",
+		"source" : "D:/CBS/Continuous-CBS(modified)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

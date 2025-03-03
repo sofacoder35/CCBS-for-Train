@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<root>
+    <agent start_id="0" goal_id="8"/>
+    <agent start_id="4" goal_id="3"/>
+    <agent start_id="9" goal_id="2"/>
+    <log>
+        <summary time="6.9514016922529042e-310" flowtime="-1" makespan="-1"/>
+    </log>
+</root>
